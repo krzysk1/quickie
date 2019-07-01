@@ -4,7 +4,7 @@
         <[vec32array][ContactSpheres][ (1.505 2.452 -0.792 0.04) (1.505 -2.452 -0.792 0.04) (-2.963 0.0 -0.151 0.04) ]>
         <[string8][DisplayName][Rutan Quickie 2]>
         <[string8][DescriptionTextEN][The Quickie Q2 or Q2 is a two-seater version of the unique Rutan Quickie, produced in kit form by the Quickie Aircraft Corporation founded by Tom Jewett and Gene Sheehan. Canadian Garry LeGare was involved in the design. (from Wikipedia)
-		Converted from FlightGear by krzysk(at)wp.pl . Original 3D model created by Emmanuel Baranger.]>
+Converted from FlightGear by Krzysztof Kaniewski, Original 3D model created by Emmanuel Baranger.]>
 		<[float64][WingSpan][5.1]>
 		<[float64][Mass][222]>
 		<[float64][MaximumSpeed][78.5]>
